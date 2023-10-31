@@ -15,7 +15,7 @@ Se ejecuta en el localhost en el puerto 5000
 - Debes instalar los paquetes con la opción: npm install
 
 
-# Instalación del backend en local 
+# Ejecución del backend en local 
 
 - Para ejecutar el backend debes acceder a la carpeta raiz y ejecutar la opción: node index.js
 
@@ -25,3 +25,4 @@ Se ejecuta en el localhost en el puerto 5000
 - NodeJS 
 - Express 
 - JavaScript
+- JSON
